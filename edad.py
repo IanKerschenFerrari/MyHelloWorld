@@ -1,0 +1,6 @@
+edad = input("Inserte aqui su edad: ")
+years = input("Inserte aqui la edad que usted quiere saber: ")
+Years = int(years) 
+Edad = int(edad) + (Years)
+print(Edad)
+input("Presione enter para salir")
